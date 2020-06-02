@@ -3,10 +3,11 @@ A GTK interface for using the Nintendo Balance Board
 
 ## Dependencies
 
-This software require these library:
+This software require these build dependencies:
 ```
 Meson
-Wiiuse
+xwiimote
+toml.c
 GTK3
 ```
 
